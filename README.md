@@ -3,7 +3,7 @@
 ## Welcome to my Github Profile.
 &nbsp;
 
-## About me
+## 📝 About me
 - 👨‍💻 Developer at <a href="https://www.ntendencia.com.br/">@Nova Tendência Informática</a>.
 - 👨🏻‍🎓 BSc. in Information Systems from <a href="http://granbery.edu.br/">@Faculdade Metodista Granbery</a>.
 - 📚 Improving my development skills on the following platforms <a href="https://rocketseat.com.br/">@Rocketseat</a> | <a href="https://www.origamid.com/">@Origamid</a> | <a href="https://www.alura.com.br/">@Alura</a>.
@@ -26,4 +26,4 @@
 
 ## 📫 How to reach me: ... 🎯
 
-[![Linkedin Badge](https://img.shields.io/badge/-ÍCARO-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/icaro-ferreira-de-souza)](https://www.linkedin.com/in/icaro-ferreira-de-souza) [![Gmail Badge](https://img.shields.io/badge/-icaroferreira.souza@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=whitelink=mailto:icaroferreira.souza@gmail.com)](mailto:icaroferreira.souza@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ÍCARO-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/icaro-ferreira-de-souza)](https://www.linkedin.com/in/icaro-ferreira-de-souza) [![Gmail Badge](https://img.shields.io/badge/-icaroferreira.souza@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:icaroferreira.souza@gmail.com)](mailto:icaroferreira.souza@gmail.com)
